@@ -59,7 +59,7 @@ public class teste extends JFrame {
                 }
             }
 
-            // Mostrar resultado (correto)
+            // Mostrar resultado 
             resultadoArea.setText("Contagem dos números:\n");
             for (int chave : mapa.keySet()) {
                 resultadoArea.append("Número " + chave + " apareceu " + mapa.get(chave) + " vezes\n");

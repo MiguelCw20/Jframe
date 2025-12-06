@@ -1,0 +1,6 @@
+{
+    "_comentario": "Este é um arquivo JSON de exemplo (assim que faz comentario)",
+    "nome": "Miguel",
+    "idade":18,
+    "estudante": true
+} 
